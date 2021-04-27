@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alprimez
 - 👀 I’m interested in something meaningful to me
-- 🌱 I’m currently learning java and glsl(i guess?)
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on yes
 - 📫 How to reach me eh later
 
